@@ -14,4 +14,4 @@ E aulas superiores da Aula16: Avaliações semestrais e apresentação de trabal
 
 ## 📧 Contato
 Para dúvidas:
-GitHub: [Samuel][https://github.com/SamCampel]
+GitHub: [Samuel],[https://github.com/SamCampel]
